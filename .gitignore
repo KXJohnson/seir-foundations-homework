@@ -1,0 +1,35 @@
+# Secrets and keys
+*.pem
+*.key
+*.ppk
+.env
+.env.*
+*.tfvars
+*.tfvars.json
+
+# Terraform state and working dirs (commit .terraform.lock.hcl)
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# Python
+venv/
+.venv/
+__pycache__/
+
+# Packages
+*.rpm
+*.zip
+
+# OS clutter
+.DS_Store
+Thumbs.db

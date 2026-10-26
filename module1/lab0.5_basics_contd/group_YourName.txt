@@ -1,0 +1,3 @@
+Spotter = ?
+Teammates = ?
+Days + Times when your team meets = ?
