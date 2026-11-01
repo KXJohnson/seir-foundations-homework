@@ -1,6 +1,6 @@
 # Class 8 / SEIR Foundations: Homework Submissions
 
-**Student:** YourName
+**Student:** Kojo
 **Course:** SEIR Foundations (Class 8)
 **Instructor:** Theo
 
