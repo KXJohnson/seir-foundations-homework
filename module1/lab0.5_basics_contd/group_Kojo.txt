@@ -1,3 +1,3 @@
-Spotter = ?
-Teammates = ?
-Days + Times when your team meets = ?
+Spotter = Dee Jones  
+Teammates = Dee, Corey, Willardth, Kojo
+Days + Times when your team meets = 6PM TUESDAYS
